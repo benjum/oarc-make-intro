@@ -1,4 +1,4 @@
-# Make and Makefiles (Winter 2022)
+# Make and Makefiles (Winter 2023)
 
 This repository is maintained by Ben Winjum for use in UCLA OARC's introductory class on Make and Makefiles.
 
